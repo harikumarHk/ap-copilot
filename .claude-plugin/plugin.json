@@ -1,0 +1,12 @@
+{
+  "name": "ap-copilot",
+  "displayName": "AP Copilot",
+  "version": "0.1.0",
+  "description": "An accounts-payable agent for Claude Code: triages invoices through a secure MCP server, with three-way matching, duplicate and fraud checks, human-approved payment requests and an audit log.",
+  "author": {
+    "name": "Hari Kumar",
+    "url": "https://www.linkedin.com/in/harikumart"
+  },
+  "license": "MIT",
+  "keywords": ["mcp", "finance", "accounts-payable", "agent", "invoice", "security"]
+}

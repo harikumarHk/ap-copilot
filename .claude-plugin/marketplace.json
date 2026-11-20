@@ -1,0 +1,14 @@
+{
+  "name": "hari-ap-copilot",
+  "owner": {
+    "name": "Hari Kumar"
+  },
+  "description": "Hari Kumar's AP Copilot: a secure accounts-payable agent plugin for Claude Code.",
+  "plugins": [
+    {
+      "name": "ap-copilot",
+      "source": "./",
+      "description": "Accounts-payable agent with a secure MCP server for invoice triage."
+    }
+  ]
+}

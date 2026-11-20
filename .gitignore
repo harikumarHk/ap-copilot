@@ -1,0 +1,7 @@
+.data/
+*.db
+audit.jsonl
+evals/results.json
+__pycache__/
+.pytest_cache/
+.venv/
