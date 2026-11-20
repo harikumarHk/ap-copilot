@@ -109,7 +109,7 @@ The agent eval checks what the model *says and tries*: required facts in the ans
 **You need:** Python 3.10 or later, and [Claude Code](https://code.claude.com) installed and logged in.
 
 ```bash
-git clone https://github.com/<your-username>/ap-copilot.git
+git clone https://github.com/harikumarHk/ap-copilot.git
 cd ap-copilot
 python3 -m pip install -r requirements.txt
 python3 -m pytest -q                 # 33 tests should pass
@@ -134,7 +134,7 @@ Then, inside Claude Code:
 **Or install it from GitHub** once the repository is public (Claude Code 2.1.275 or later):
 
 ```text
-/plugin install ap-copilot --marketplace <your-username>/ap-copilot
+/plugin install ap-copilot --marketplace harikumarHk/ap-copilot
 ```
 
 On Windows, if `python3` isn't found, change `python3` to `python` in `.mcp.json` and `hooks/hooks.json`.
